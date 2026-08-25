@@ -1,7 +1,7 @@
 1 This is the first line
 2
 3 this is the middle line
-4 this is the foruth line
+4 this is the fourth line
 5 This is the last line
 6
 7
